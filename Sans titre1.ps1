@@ -6,3 +6,4 @@ echo "J'avance";
 }
 
 
+test
